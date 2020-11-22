@@ -1,6 +1,6 @@
 # rj45-twister
 
-![Image](image-v1.1.jfif?raw=true)
+![Image](image-v1.1.jpeg?raw=true)
 
 Use this to make a normal RJ45-connection or a crossover-cable.
 
@@ -16,3 +16,4 @@ Inspired by LaF0rge: https://twitter.com/LaF0rge/status/1297489961776799747
 
 Thank you!
 
+git 
