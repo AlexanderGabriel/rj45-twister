@@ -9,7 +9,7 @@ Two if this can be used to make a ehternet-tap
 
 Joint work of:
 - S. Kehrlein https://github.com/kehrlein
-- M. Firsching
+- M. Firsching https://github.com/marcofirsching
 - A. Gabriel https://github.com/AlexanderGabriel
 
 Inspired by LaF0rge: https://twitter.com/LaF0rge/status/1297489961776799747
