@@ -15,5 +15,3 @@ Joint work of:
 Inspired by LaF0rge: https://twitter.com/LaF0rge/status/1297489961776799747
 
 Thank you!
-
-git 
